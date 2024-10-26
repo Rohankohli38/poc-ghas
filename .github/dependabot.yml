@@ -1,8 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
+  - package-ecosystem: "gradle"
     directory: "/"
     schedule:
-      interval: "weekly"
-    labels:
-      - "type: task"
+      interval: "daily"
