@@ -60,7 +60,7 @@ dependencies {
 	testImplementation("org.jetbrains.kotlin:kotlin-daemon-client:$kotlinVersion")
 	testImplementation("org.junit.jupiter:junit-jupiter")
 	testImplementation("org.mockito:mockito-core")
-	testImplementation("org.tomlj:tomlj:1.0.0")
+	testImplementation("org.tomlj:tomlj:1.1.1")
 }
 
 repositories {
